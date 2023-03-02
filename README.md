@@ -1,1 +1,1 @@
-# Moralis-Unity-SDK-OpenAPI
+# Moralis Unity SDK (generated with OpenAPI)

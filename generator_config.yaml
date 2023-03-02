@@ -1,0 +1,25 @@
+globalProperties:
+  apiDocs: false
+  apiTests: false
+  modelDocs: false
+  modelTests: false
+
+additionalProperties:
+  #library: httpclient
+  targetFramework: netstandard2.1
+  modelPropertyNaming: PascalCase
+  nullableReferenceTypes: false
+  sourceFolder: Runtime/Moralis
+  validatable: false
+  #netCoreProjectFile: true
+
+  
+  
+  
+  
+  
+  
+  
+  # useHttpClient: false
+  # useRestSharp: true
+  

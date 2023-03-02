@@ -1,0 +1,23 @@
+{
+    "name": "moralis.unity-sdk",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Bcl.AsyncInterfaces.dll",
+        "Polly.dll",
+        "RestSharp.dll",
+        "System.Runtime.CompilerServices.Unsafe.dll",
+        "System.Text.Encodings.Web.dll",
+        "System.Text.Json.dll",
+        "Newtonsoft.Json.dll",
+        "UniTask.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
